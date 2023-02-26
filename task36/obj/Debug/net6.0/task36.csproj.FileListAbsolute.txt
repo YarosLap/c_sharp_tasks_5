@@ -1,0 +1,15 @@
+/Users/elvis/Desktop/gb/C#/dz5/task36/bin/Debug/net6.0/task36
+/Users/elvis/Desktop/gb/C#/dz5/task36/bin/Debug/net6.0/task36.deps.json
+/Users/elvis/Desktop/gb/C#/dz5/task36/bin/Debug/net6.0/task36.runtimeconfig.json
+/Users/elvis/Desktop/gb/C#/dz5/task36/bin/Debug/net6.0/task36.dll
+/Users/elvis/Desktop/gb/C#/dz5/task36/bin/Debug/net6.0/task36.pdb
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.csproj.AssemblyReference.cache
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.AssemblyInfoInputs.cache
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.AssemblyInfo.cs
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.csproj.CoreCompileInputs.cache
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.dll
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/refint/task36.dll
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.pdb
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/task36.genruntimeconfig.cache
+/Users/elvis/Desktop/gb/C#/dz5/task36/obj/Debug/net6.0/ref/task36.dll
